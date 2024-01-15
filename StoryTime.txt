@@ -1,4 +1,4 @@
-Jack flew into the Flughafen in Berlin for a vacation. 
-When he arrived, he saw a Rammstein playing music in lederhosen.
-He was hungry after seeing the band, so he drove on the haupstrasse to try and find a baeckerei.
-Jack found a quaint baeckerei and ate four delicious gebaeck.
+1. Jack flew into the Flughafen in Berlin for a vacation. 
+2. When he arrived, he saw a Rammstein playing music in lederhosen.
+3. He was hungry after seeing the band, so he drove on the haupstrasse to try and find a baeckerei.
+4. Jack found a quaint baeckerei and ate four delicious gebaeck.
